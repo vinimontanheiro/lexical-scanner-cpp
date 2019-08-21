@@ -1,0 +1,35 @@
+#include                Keyword
+<                       Operator
+teste                   Identifier
+>                       Operator
+int                     Keyword
+main                    Identifier
+(                       Symbol
+)                       Symbol
+{                       Symbol
+int                     Keyword
+_teste90                Identifier
+=                       Operator
+0                       Integer
+;                       Symbol
+#                       Lexical Error!
+int                     Keyword
+b                       Identifier
+=                       Operator
+1                       Integer
++                       Operator
+1                       Integer
+;                       Symbol
+int                     Keyword
+*                       Operator
+teste                   Identifier
+;                       Symbol
+cout                    Keyword
+<                       Operator
+<                       Operator
+&teste                  Identifier
+<                       Operator
+<                       Operator
+tes&te                  Lexical Error!
+;                       Symbol
+}                       Symbol

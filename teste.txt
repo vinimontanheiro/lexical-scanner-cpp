@@ -1,0 +1,9 @@
+#include<teste>
+
+int main(){
+ int _teste90 = 0;
+ #
+ int b = 1 + 1;
+ int* teste;
+ cout<<&teste << tes&te;
+}
