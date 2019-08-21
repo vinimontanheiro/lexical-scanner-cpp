@@ -14,7 +14,6 @@ int main() {
 
     ifstream file(filename);
 
-    //Iniciando os estados e algumas das nossas linguagens regulares
     DFA identifierDFA("identifiers.txt");
     DFA integerDFA("whoneNumbers.txt");
     DFA floatDFA("realNumbers.txt");
